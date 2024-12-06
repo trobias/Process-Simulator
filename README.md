@@ -5,7 +5,8 @@
 Este proyecto es un simulador interactivo que emula la gestión de procesos y memoria en un sistema operativo sin memoria virtual. Fue desarrollado para explorar conceptos clave como la asignación de memoria, el ciclo de vida de los procesos y la gestión de recursos compartidos, con una interfaz gráfica intuitiva basada en **Tkinter**.  
 
 ---
-![image](https://github.com/user-attachments/assets/d5fa807b-74f4-41c1-a522-e2469cbb7873)
+![image](https://github.com/user-attachments/assets/ee273ded-98c5-460f-aa86-c19cacaa249a)
+
 
 ### **Características principales 🛠️**  
 
